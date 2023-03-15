@@ -80,8 +80,6 @@ public class NoteAdapter extends RecyclerView.Adapter<NoteAdapter.ViewHolder>{
         public void onClick(View v) {
 
         }
-
-
     }
 
     Note getItem(int id) {
